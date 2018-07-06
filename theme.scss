@@ -28,7 +28,7 @@ $theme-colors: (
   primary: #151515,
   secondary: #00ffff,
   light: #f3f3f3,
-  dark: #151515,
+  dark: #00ffff,
   info: #ccc,
   success: #28a745,
   warning: #ffc107,
@@ -36,11 +36,16 @@ $theme-colors: (
 );
 
 $body-bg: white;
-$body-color: #333;
+$body-color: #999;
+
+
+
 
 
 $body-color-inverse: invert($body-color) !default;
 $link-color: #151515;
+
+
 
 
 // Fonts
