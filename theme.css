@@ -68,7 +68,7 @@ body {
   font-size: 16;
   font-weight: 200;
   line-height: 1.5;
-  color: #999;
+  color: #999999;
   text-align: left;
   background-color: white; }
 
@@ -2116,7 +2116,7 @@ tbody.collapse.show {
   padding: 0.5rem 0;
   margin: 0.125rem 0 0;
   font-size: 16;
-  color: #999;
+  color: #999999;
   text-align: left;
   list-style: none;
   background-color: #fff;
@@ -3492,7 +3492,7 @@ tbody.collapse.show {
     text-decoration: none;
     background-color: #f8f9fa; }
   .list-group-item-action:active {
-    color: #999;
+    color: #999999;
     background-color: #e9ecef; }
 
 .list-group-item {
@@ -3967,7 +3967,7 @@ button.close {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #999; }
+  color: #999999; }
 
 .carousel {
   position: relative; }
